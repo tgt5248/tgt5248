@@ -15,7 +15,9 @@
 <img src="https://activity-graph.herokuapp.com/graph?username=tgt5248&theme=react-dark&bg_color=000000&hide_border=true&line=467EE4&color=467EE4" width=98%/>
 </a>
 
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+ 
 <!--
 **tgt5248/tgt5248** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
