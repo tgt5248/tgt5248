@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" >
 
 
 # 👋🏼 
@@ -20,11 +20,11 @@
  <img src="https://raw.githubusercontent.com/tgt5248/github-stats-transparent/output/generated/languages.svg" width=49% />
 </a>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+</a>
 
+  <p></p>
 
-  
-  <!-- <img src="https://activity-graph.herokuapp.com/graph?username=tgt5248&theme=react-dark&bg_color=000000&hide_border=true&line=467EE4&color=467EE4" width=98%/>
-</a> -->
+<!--  <img src="https://activity-graph.herokuapp.com/graph?username=tgt5248&theme=react-dark&bg_color=000000&hide_border=true&line=467EE4&color=467EE4" width=98%/> -->
 
 
 **저는 저녁형 인간이에요. 🦉** 
