@@ -28,13 +28,13 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-JavaScript               23 mins             █████████████████████████   100.00 % 
+이번 주에 활동은 없어요.
 
 🔥 에디터들: 
-VS Code                  23 mins             █████████████████████████   100.00 % 
+이번 주에 활동은 없어요.
 
 💻 운영 체제들: 
-Mac                      23 mins             █████████████████████████   100.00 % 
+이번 주에 활동은 없어요.
 ```
 
 **저는 주로 JavaScript 언어를 사용해요.** 
@@ -50,7 +50,7 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 23/02/2024 00:39:51 UTC
+ Last Updated on 24/02/2024 00:38:24 UTC
 <!--END_SECTION:waka-->
  
 <!--
