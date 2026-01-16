@@ -28,13 +28,13 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-이번 주에 활동은 없어요.
+TypeScript               1 hr 19 mins        █████████████████████████   100.00 % 
 
 🔥 에디터들: 
-이번 주에 활동은 없어요.
+VS Code                  1 hr 19 mins        █████████████████████████   100.00 % 
 
 💻 운영 체제들: 
-이번 주에 활동은 없어요.
+Mac                      1 hr 19 mins        █████████████████████████   100.00 % 
 ```
 
 **저는 주로 TypeScript 언어를 사용해요.** 
@@ -50,7 +50,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 15/01/2026 01:09:42 UTC
+ Last Updated on 16/01/2026 01:11:35 UTC
 <!--END_SECTION:waka-->
  
 <!--
