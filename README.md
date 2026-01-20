@@ -8,7 +8,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftgt5248%2Fhit-counter&count_bg=%23007EC6&title_bg=%23555555&icon=angellist.svg&icon_color=%23FFFFFF&title=Number+of+visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-521%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-531%20hrs%2018%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-220.11%20thousand%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
@@ -28,16 +28,16 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-TypeScript               10 hrs 45 mins      █████████████████████████   99.25 % 
-JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+TypeScript               11 hrs 1 min        █████████████████████████   99.26 % 
+JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 에디터들: 
-VS Code                  10 hrs 49 mins      █████████████████████████   100.00 % 
+VS Code                  11 hrs 6 mins       █████████████████████████   100.00 % 
 
 💻 운영 체제들: 
-Mac                      10 hrs 49 mins      █████████████████████████   100.00 % 
+Mac                      11 hrs 6 mins       █████████████████████████   100.00 % 
 ```
 
 **저는 주로 TypeScript 언어를 사용해요.** 
@@ -53,7 +53,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 19/01/2026 01:15:42 UTC
+ Last Updated on 20/01/2026 01:10:33 UTC
 <!--END_SECTION:waka-->
  
 <!--
