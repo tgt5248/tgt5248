@@ -10,15 +10,15 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-531%20hrs%2035%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-225.86%20thousand%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-184.10%20thousand%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
 **저는 아침형 인간이에요. 🐤** 
 
 ```text
-🌞 아침                     8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
-🌆 낮　                     142 commits         ██████████████░░░░░░░░░░░   55.25 % 
-🌃 저녁                     67 commits          ███████░░░░░░░░░░░░░░░░░░   26.07 % 
-🌙 밤　                     40 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
+🌞 아침                     8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+🌆 낮　                     133 commits         ███████████████░░░░░░░░░░   58.33 % 
+🌃 저녁                     47 commits          █████░░░░░░░░░░░░░░░░░░░░   20.61 % 
+🌙 밤　                     40 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
 ```
 
 
@@ -40,17 +40,17 @@
 **저는 주로 Python 언어를 사용해요.** 
 
 ```text
-Python                   3 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-TypeScript               3 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Dart                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-HTML                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Python                   3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
+TypeScript               2 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Dart                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+HTML                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
 ```
 
 
 
 
- Last Updated on 15/04/2026 01:52:07 UTC
+ Last Updated on 16/04/2026 02:00:40 UTC
 <!--END_SECTION:waka-->
  
 <!--
