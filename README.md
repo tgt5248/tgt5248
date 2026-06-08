@@ -8,6 +8,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftgt5248%2Fhit-counter&count_bg=%23007EC6&title_bg=%23555555&icon=angellist.svg&icon_color=%23FFFFFF&title=Number+of+visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-539%20hrs%2014%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-184.10%20thousand%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
 **저는 아침형 인간이에요. 🐤** 
@@ -26,16 +28,13 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-TypeScript               3 hrs 23 mins       ███████████████████████░░   92.35 % 
-CSS                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
-Markdown                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+이번 주에 활동은 없어요.
 
 🔥 에디터들: 
-VS Code                  3 hrs 40 mins       █████████████████████████   100.00 % 
+이번 주에 활동은 없어요.
 
 💻 운영 체제들: 
-Mac                      3 hrs 40 mins       █████████████████████████   100.00 % 
+이번 주에 활동은 없어요.
 ```
 
 **저는 주로 Python 언어를 사용해요.** 
@@ -51,7 +50,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 07/06/2026 02:50:14 UTC
+ Last Updated on 08/06/2026 02:52:54 UTC
 <!--END_SECTION:waka-->
  
 <!--
