@@ -8,8 +8,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftgt5248%2Fhit-counter&count_bg=%23007EC6&title_bg=%23555555&icon=angellist.svg&icon_color=%23FFFFFF&title=Number+of+visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-537%20hrs%2046%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-184.10%20thousand%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
 **저는 아침형 인간이에요. 🐤** 
@@ -28,13 +26,13 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-이번 주에 활동은 없어요.
+Markdown                 3 mins              █████████████████████████   100.00 % 
 
 🔥 에디터들: 
-이번 주에 활동은 없어요.
+VS Code                  3 mins              █████████████████████████   100.00 % 
 
 💻 운영 체제들: 
-이번 주에 활동은 없어요.
+Mac                      3 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -56,7 +54,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 06/08/2026 01:53:32 UTC
+ Last Updated on 07/08/2026 02:15:18 UTC
 <!--END_SECTION:waka-->
  
 <!--
