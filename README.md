@@ -43,20 +43,20 @@ Mac                      3 mins              ███████████�
 No AI Coding Activity Tracked This Week
 ```
 
-**저는 주로 Python 언어를 사용해요.** 
+**저는 주로 JavaScript 언어를 사용해요.** 
 
 ```text
-Python                   3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
-TypeScript               2 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Dart                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-HTML                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+JavaScript               3 repos             █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
+Python                   3 repos             █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
+TypeScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Dart                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+HTML                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
 ```
 
 
 
 
- Last Updated on 10/08/2026 01:09:19 UTC
+ Last Updated on 11/08/2026 01:08:38 UTC
 <!--END_SECTION:waka-->
  
 <!--
