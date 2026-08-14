@@ -28,13 +28,13 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Markdown                 3 mins              █████████████████████████   100.00 % 
+이번 주에 활동은 없어요.
 
 🔥 에디터들: 
-VS Code                  3 mins              █████████████████████████   100.00 % 
+이번 주에 활동은 없어요.
 
 💻 운영 체제들: 
-Mac                      3 mins              █████████████████████████   100.00 % 
+이번 주에 활동은 없어요.
 ```
 
 🤖 **AI Coding This Week** 
@@ -56,7 +56,7 @@ HTML                     2 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 13/08/2026 01:18:13 UTC
+ Last Updated on 14/08/2026 01:17:17 UTC
 <!--END_SECTION:waka-->
  
 <!--
