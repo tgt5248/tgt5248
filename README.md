@@ -30,39 +30,39 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-TypeScript               2 hrs 7 mins        ██████████░░░░░░░░░░░░░░░   39.23 % 
-Swift                    1 hr 52 mins        █████████░░░░░░░░░░░░░░░░   34.72 % 
-HTML                     53 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
-Other                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
-JavaScript               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+TypeScript               2 hrs 7 mins        ██████████░░░░░░░░░░░░░░░   41.91 % 
+Swift                    1 hr 37 mins        ████████░░░░░░░░░░░░░░░░░   32.06 % 
+HTML                     53 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
+Other                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
 
 🔥 에디터들: 
-VS Code                  2 hrs 59 mins       ██████████████░░░░░░░░░░░   55.40 % 
-Codex Vscode             2 hrs 12 mins       ██████████░░░░░░░░░░░░░░░   40.92 % 
-Codex CLI                11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+VS Code                  2 hrs 59 mins       ███████████████░░░░░░░░░░   59.18 % 
+Codex Vscode             1 hr 51 mins        █████████░░░░░░░░░░░░░░░░   36.88 % 
+Codex CLI                11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
 
 💻 운영 체제들: 
-Mac                      5 hrs 24 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 9 mins (58.38%)
+⏱ AI Coding Time: 2 hrs 48 mins (55.54%)
 
 ✍️ 60 lines written by AI, 695 lines written by hand (7.95% AI-written)
 
-🔤 1,670,954 Input Tokens, 170,691 Output Tokens
+🔤 1,328,759 Input Tokens, 147,946 Output Tokens
 
-💵 $23.76 Estimated AI Cost This Week
+💵 $20.66 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 49 AI Prompts
+🧠 9 AI Sessions, 40 AI Prompts
 
 GPT                      62 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 7.95% of written lines came from AI
-📚 Verbose Prompter — average 4,791 characters per prompt
+📚 Verbose Prompter — average 4,536 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🔍 Hands-On Reviewer — 96.13% of changed lines were hand-edited
 ```
@@ -80,7 +80,7 @@ HTML                     2 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 15/09/2026 02:48:17 UTC
+ Last Updated on 16/09/2026 02:43:18 UTC
 <!--END_SECTION:waka-->
  
 <!--
