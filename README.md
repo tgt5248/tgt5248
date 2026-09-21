@@ -8,9 +8,9 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftgt5248%2Fhit-counter&count_bg=%23007EC6&title_bg=%23555555&icon=angellist.svg&icon_color=%23FFFFFF&title=Number+of+visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-541%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-542%20hrs%2037%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2037%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2036%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-197.14%20thousand%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue?style=flat)
 
@@ -30,42 +30,43 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-TypeScript               3 hrs 19 mins       ████████████████░░░░░░░░░   65.55 % 
-HTML                     53 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
-Swift                    26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
-Other                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
-Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+Markdown                 1 hr 54 mins        ██████████░░░░░░░░░░░░░░░   39.94 % 
+TypeScript               1 hr 39 mins        █████████░░░░░░░░░░░░░░░░   34.87 % 
+Other                    58 mins             █████░░░░░░░░░░░░░░░░░░░░   20.50 % 
+HTML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 
 🔥 에디터들: 
-VS Code                  3 hrs 29 mins       █████████████████░░░░░░░░   68.94 % 
-Codex Vscode             52 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
-Claude Code              42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
+Claude Code              2 hrs 12 mins       ████████████░░░░░░░░░░░░░   46.47 % 
+Codex Vscode             1 hr 22 mins        ███████░░░░░░░░░░░░░░░░░░   28.91 % 
+VS Code                  1 hr 10 mins        ██████░░░░░░░░░░░░░░░░░░░   24.61 % 
 
 💻 운영 체제들: 
-Mac                      5 hrs 4 mins        █████████████████████████   100.00 % 
+Mac                      4 hrs 45 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 35 mins (51.23%)
+⏱ AI Coding Time: 4 hrs 30 mins (94.76%)
 
-✍️ 33 lines written by AI, 711 lines written by hand (4.44% AI-written)
+✍️ 149 lines written by AI, 78 lines written by hand (65.64% AI-written)
 
-🔤 866,690 Input Tokens, 130,406 Output Tokens
+🔤 3,010,913 Input Tokens, 262,987 Output Tokens
 
-💵 $17.74 Estimated AI Cost This Week
+💵 $51.27 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 31 AI Prompts
+🧠 12 AI Sessions, 63 AI Prompts
 
-GPT                      35 lines            █████████████████████████   100.00 % 
+GPT                      149 lines           █████████████████████████   100.00 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 4.44% of written lines came from AI
-📝 Concise Prompter — average 105 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🔍 Hands-On Reviewer — 97.8% of changed lines were hand-edited
+⚖️ Balanced with AI — 65.64% of written lines came from AI
+📝 Concise Prompter — average 81 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 35.78% of changed lines were hand-edited
 ```
 
 **저는 주로 TypeScript 언어를 사용해요.** 
@@ -81,7 +82,7 @@ HTML                     2 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 20/09/2026 02:44:40 UTC
+ Last Updated on 21/09/2026 02:42:06 UTC
 <!--END_SECTION:waka-->
  
 <!--
