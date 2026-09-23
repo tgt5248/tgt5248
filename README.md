@@ -30,33 +30,33 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Markdown                 1 hr 54 mins        ███████████░░░░░░░░░░░░░░   44.41 % 
-TypeScript               1 hr 39 mins        ██████████░░░░░░░░░░░░░░░   38.77 % 
-Other                    29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
-HTML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
-JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+Markdown                 1 hr 54 mins        ████████████░░░░░░░░░░░░░   46.11 % 
+TypeScript               1 hr 39 mins        ██████████░░░░░░░░░░░░░░░   40.25 % 
+Other                    20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
+HTML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
+JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 
 🔥 에디터들: 
-Claude Code              2 hrs 12 mins       █████████████░░░░░░░░░░░░   51.67 % 
-VS Code                  1 hr 10 mins        ███████░░░░░░░░░░░░░░░░░░   27.37 % 
-Codex Vscode             53 mins             █████░░░░░░░░░░░░░░░░░░░░   20.96 % 
+Claude Code              1 hr 54 mins        ████████████░░░░░░░░░░░░░   46.07 % 
+VS Code                  1 hr 7 mins         ███████░░░░░░░░░░░░░░░░░░   27.19 % 
+Codex Vscode             1 hr 6 mins         ███████░░░░░░░░░░░░░░░░░░   26.74 % 
 
 💻 운영 체제들: 
-Mac                      4 hrs 17 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 2 mins (94.17%)
+⏱ AI Coding Time: 3 hrs 52 mins (93.95%)
 
 ✍️ 149 lines written by AI, 78 lines written by hand (65.64% AI-written)
 
-🔤 2,697,441 Input Tokens, 233,144 Output Tokens
+🔤 2,784,101 Input Tokens, 242,074 Output Tokens
 
-💵 $45.20 Estimated AI Cost This Week
+💵 $45.73 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 53 AI Prompts
+🧠 10 AI Sessions, 53 AI Prompts
 
 GPT                      149 lines           █████████████████████████   100.00 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
@@ -64,7 +64,7 @@ Codex-Vscode             0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 ⚖️ Balanced with AI — 65.64% of written lines came from AI
-📝 Concise Prompter — average 75 characters per prompt
+📝 Concise Prompter — average 67 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 35.78% of changed lines were hand-edited
 ```
@@ -82,7 +82,7 @@ HTML                     2 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 22/09/2026 02:43:18 UTC
+ Last Updated on 23/09/2026 02:43:33 UTC
 <!--END_SECTION:waka-->
  
 <!--
