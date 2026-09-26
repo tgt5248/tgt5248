@@ -30,41 +30,40 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-TypeScript               1 hr 39 mins        ███████████░░░░░░░░░░░░░░   45.69 % 
-Markdown                 1 hr 35 mins        ███████████░░░░░░░░░░░░░░   43.78 % 
-Other                    19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
-HTML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+TypeScript               1 hr 39 mins        ████████████░░░░░░░░░░░░░   48.23 % 
+Markdown                 1 hr 27 mins        ███████████░░░░░░░░░░░░░░   42.24 % 
+Other                    19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
 
 🔥 에디터들: 
-Claude Code              1 hr 54 mins        █████████████░░░░░░░░░░░░   52.30 % 
-VS Code                  1 hr 5 mins         ████████░░░░░░░░░░░░░░░░░   30.18 % 
-Codex Vscode             38 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
+Claude Code              1 hr 54 mins        ██████████████░░░░░░░░░░░   55.20 % 
+VS Code                  1 hr 5 mins         ████████░░░░░░░░░░░░░░░░░   31.85 % 
+Codex Vscode             26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
 
 💻 운영 체제들: 
-Mac                      3 hrs 38 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 26 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 23 mins (93.13%)
+⏱ AI Coding Time: 3 hrs 11 mins (92.75%)
 
-✍️ 55 lines written by AI, 78 lines written by hand (41.35% AI-written)
+✍️ 21 lines written by AI, 78 lines written by hand (21.21% AI-written)
 
-🔤 2,314,607 Input Tokens, 189,235 Output Tokens
+🔤 2,136,519 Input Tokens, 160,965 Output Tokens
 
-💵 $37.42 Estimated AI Cost This Week
+💵 $33.76 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 51 AI Prompts
+🧠 5 AI Sessions, 47 AI Prompts
 
-GPT                      55 lines            █████████████████████████   100.00 % 
+GPT                      21 lines            █████████████████████████   100.00 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 41.35% of written lines came from AI
-📝 Concise Prompter — average 66 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🔍 Hands-On Reviewer — 60.14% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 21.21% of written lines came from AI
+📝 Concise Prompter — average 70 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🔍 Hands-On Reviewer — 79.81% of changed lines were hand-edited
 ```
 
 **저는 주로 TypeScript 언어를 사용해요.** 
@@ -80,7 +79,7 @@ HTML                     2 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 25/09/2026 02:50:28 UTC
+ Last Updated on 26/09/2026 02:53:54 UTC
 <!--END_SECTION:waka-->
  
 <!--
