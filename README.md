@@ -30,40 +30,35 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Markdown                 1 hr 12 mins        ███████████████░░░░░░░░░░   60.40 % 
-TypeScript               27 mins             ██████░░░░░░░░░░░░░░░░░░░   23.09 % 
-Other                    19 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
+Other                    19 mins             █████████████████████████   100.00 % 
 
 🔥 에디터들: 
-Claude Code              1 hr 2 mins         █████████████░░░░░░░░░░░░   52.54 % 
-VS Code                  35 mins             ████████░░░░░░░░░░░░░░░░░   30.02 % 
-Codex Vscode             20 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
+Codex Vscode             19 mins             █████████████████████████   100.00 % 
 
 💻 운영 체제들: 
-Mac                      1 hr 59 mins        █████████████████████████   100.00 % 
+Mac                      19 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 57 mins (98.64%)
+⏱ AI Coding Time: 19 mins (100.0%)
 
-✍️ 14 lines written by AI, 62 lines written by hand (18.42% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 1,508,842 Input Tokens, 100,482 Output Tokens
+🔤 240,152 Input Tokens, 24,280 Output Tokens
 
-💵 $23.63 Estimated AI Cost This Week
+💵 $3.48 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 38 AI Prompts
+🧠 1 AI Sessions, 3 AI Prompts
 
-GPT                      14 lines            █████████████████████████   100.00 % 
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 18.42% of written lines came from AI
-📝 Concise Prompter — average 61 characters per prompt
-🔁 Iterative Prompter — average 13 prompts per session
-🔍 Hands-On Reviewer — 82.72% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 40 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **저는 주로 TypeScript 언어를 사용해요.** 
@@ -79,7 +74,7 @@ HTML                     2 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 27/09/2026 02:55:48 UTC
+ Last Updated on 28/09/2026 02:55:12 UTC
 <!--END_SECTION:waka-->
  
 <!--
