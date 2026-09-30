@@ -30,35 +30,19 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Other                    19 mins             █████████████████████████   100.00 % 
+이번 주에 활동은 없어요.
 
 🔥 에디터들: 
-Codex Vscode             19 mins             █████████████████████████   100.00 % 
+이번 주에 활동은 없어요.
 
 💻 운영 체제들: 
-Mac                      19 mins             █████████████████████████   100.00 % 
+이번 주에 활동은 없어요.
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 19 mins (100.0%)
-
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
-
-🔤 240,152 Input Tokens, 24,280 Output Tokens
-
-💵 $3.48 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 3 AI Prompts
-
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 40 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **저는 주로 TypeScript 언어를 사용해요.** 
@@ -74,7 +58,7 @@ HTML                     2 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 29/09/2026 03:35:51 UTC
+ Last Updated on 30/09/2026 03:21:41 UTC
 <!--END_SECTION:waka-->
  
 <!--
